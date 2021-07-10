@@ -23,10 +23,12 @@ This is ***Cyber-Rocky*** Password Attack Tools.
                > cd fb-hack-bd
                > ls
                > chmod +x *
-               > python fb-hack-bd.py
+               > ls
                > pip install requests
                > pip install mechanize
-               > 
+               > python fb-hack-bd.py
+               
+               
 
 
 
