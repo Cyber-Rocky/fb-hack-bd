@@ -20,6 +20,10 @@ This is ***Cyber-Rocky*** Password Attack Tools.
                > apt install git
                > apt install python
                > git clone https://github.com/Cyber-Rocky/fb-hack-bd.git
+               > cd fb-hack-bd
+               > ls
+               > chmod +x *
+               > python fb-hack-bd.py
                > pip install requests
                > pip install mechanize
                > 
